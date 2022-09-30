@@ -8,14 +8,14 @@
 </div>  
 
 <div>
-<hr><p><b> minhas tecnologias e ferramentas: </b></p>
+<hr aling="center"><p><b> minhas tecnologias e ferramentas: </b></p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" width="45"/>
 </div>
 
 <div>
-<hr><p><b> estatísticas do GitHub: </b></p>
+<hr aling="center"><p><b> estatísticas do GitHub: </b></p>
 <a href="https://github.com/gustavoib">
 <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoib&layout=compact&langs_count=7&theme=dark"/>
 <img height="140" src="https://github-readme-stats.vercel.app/api?username=gustavoib&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
