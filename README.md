@@ -1,5 +1,25 @@
+<h2> olá, sejam bem-vindos ao meu perfil GitHub! </h2>
+
 <div>
+<p><b> minhas tecnologias: </b></p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" width="45"/>
+</div>
+
+<br>
+
+<div>
+<p><b> estatisticas do GitHub: </b></p>
 <a href="https://github.com/gustavoib">
 <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoib&layout=compact&langs_count=7&theme=dark"/>
 <img height="140" src="https://github-readme-stats.vercel.app/api?username=gustavoib&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
+
+<br>
+
+<div>
+<p><b> meus contatos: </b></p>
+<a href="https://instagram.com/gustavo_irineub" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:joaogustavo831@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/gustavo-irineu" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
